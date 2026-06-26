@@ -8,9 +8,9 @@ A simple and responsive **Expense Tracker** built using **React**, **Vite**, **T
 
 Add your project screenshot inside the **public** folder.
 
-```md
+
 ![Expense Tracker Screenshot](public/output.png)
-```
+
 
 ---
 
